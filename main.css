@@ -2,7 +2,21 @@ h1,h2,p{
     text-align: center;
 }
 h1,h2{
-    font-family: Impact;
+    font-family: Impact,serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+hr{
+    border-color: brown ;
+    background-color: brown;
+    height: 2px;
+}
+.established{
+    font-style: italic;
 }
 body{
     font-family: sans-serif;
